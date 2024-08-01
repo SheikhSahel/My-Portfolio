@@ -144,9 +144,9 @@ const Header = () => {
                 <div className="rounded-full w-max overflow-hidden mb-6 hidden md:block">
                   <Image
                     src={"/user.jpg"}
-                    alt="Waseem Anjum"
+                    alt="Sheikh Sahel"
                     width={120}
-                    height={120}
+                    height={500}
                   />
                 </div>
                 <div className="w-full  gap-10 md:gap-40  flex">

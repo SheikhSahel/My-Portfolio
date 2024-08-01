@@ -69,7 +69,7 @@ const page = () => {
               </p>
 
               <p className="mt-16">
-                As I've worked on various projects, I can build your desired website 
+                As I have worked on various projects, I can build your desired website 
                 . I am constantly seeking opportunities to expand my
                 knowledge and stay up-to-date with the latest technological
                 advancements.
