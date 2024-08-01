@@ -62,44 +62,44 @@ export const services = [
 
 export const projects = [
   {
-    title: "Online Marketplace Development with Next.js",
+    title: "Exclusive Ecommerce Website with Next.js",
     image: "/portfolio/1.jpg",
-    tags: ["Marketplace"],
+    tags: ["Ecommerce"],
   },
   {
-    title: "Fashion Ecommerce Platform Built with Next.js",
+    title: "WebEx Website Built with React.js",
     image: "/portfolio/2.jpg",
     tags: ["Fashion", "Ecommerce"],
   },
   {
-    title: "Customizable Ecommerce Solution Using Next.js",
+    title: "Shopsy Ecommerce Website Using React.js",
     image: "/portfolio/3.jpg",
     tags: ["Ecommerce", "Customizable"],
   },
   {
-    title: "Next.js Ecommerce Application for Digital Products",
+    title: "Gym Website Using React.js",
     image: "/portfolio/4.jpg",
-    tags: ["Ecommerce", "Digital"],
+    tags: ["Gym", "Digital"],
   },
   {
-    title: "Next.js Ecommerce Platform for Artisans",
-    image: "/portfolio/1.jpg",
-    tags: ["Ecommerce", "Artisans"],
+    title: "Coffee Cafe Website Using React.js",
+    image: "/portfolio/5.jpg",
+    tags: ["Cafe"],
   },
   {
-    title: "Digital Marketplace Development with Next.js",
-    image: "/portfolio/2.jpg",
-    tags: ["Marketplace", "Digital"],
+    title: "Car Rental Website Using React.js",
+    image: "/portfolio/6.jpg",
+    tags: ["Rental"],
   },
   {
-    title: "Next.js-based Fashion Ecommerce Store",
-    image: "/portfolio/3.jpg",
-    tags: ["Fashion", "Ecommerce"],
+    title: "Brainwave Website Using React.js",
+    image: "/portfolio/7.jpg",
+    tags: ["Modern"],
   },
   {
-    title: "Customizable Ecommerce Solution Using Next.js",
-    image: "/portfolio/4.jpg",
-    tags: ["Ecommerce", "Customizable"],
+    title: "Hoo-Bank Website Using React.js",
+    image: "/portfolio/8.jpg",
+    tags: ["Customizable", "Bank"],
   },
 ];
 
