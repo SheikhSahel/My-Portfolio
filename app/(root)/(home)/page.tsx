@@ -25,7 +25,7 @@ const page = () => {
           Passion.
         </h1>
         <Button asChild>
-          <Link href="#testimonial">Say hi 👋</Link>
+          <Link href="#testimonial">Say Hi 👋</Link>
         </Button>
         <a
           href="#about"
@@ -62,7 +62,7 @@ const page = () => {
                 </div>
               </div>
               <p>
-                Hi, I am Sahel, a front-end developer. I am incredibly skilled 
+                Hi, I am Sheikh Sahel, a front-end developer. I am incredibly skilled 
                 in CSS, HTML, Javascript, Bootstrap, Tailwind CSS, Next.js, 
                 and React.js. These skills have been honed through my extensive 
                 work and the projects I&apos;ve successfully completed.
@@ -98,7 +98,7 @@ const page = () => {
             size={"lg"}
             className="mt-5 w-max mx-auto"
           >
-            <Link href="/portfolio">Explore All Projects</Link>
+            <Link href="https://github.com/SheikhSahel?tab=repositories">Explore All Projects</Link>
           </Button>
         </div>
       </Section>
